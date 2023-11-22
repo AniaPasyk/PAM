@@ -19,7 +19,7 @@ public class BaseTests {
     protected WebDriver driver;
     protected Logger log = LogManager.getLogger();
 
-    private String pageUrl = "https://pam-uat.roche.com/prm/security/login.xhtml";
+    private String pageUrl = "xxxxxxxxxxxxxxxxxxx";
 
     @BeforeMethod
     public void openUrl() {
